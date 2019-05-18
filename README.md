@@ -1,7 +1,7 @@
 # libget
 [![Build Status](https://travis-ci.org/vgmoose/libget.svg?branch=master)](https://travis-ci.org/vgmoose/libget) [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://opensource.org/licenses/GPL-3.0)
 
-get is a mini package manager that is used as the backend to [Homebrew App Store](http://github.com/vgmoose/hb-appstore) to allow more formal package management.
+get is a mini package manager that is used as the backend to [WiiUStore+](https://github.com/NintendoBrew/WiiUStoreplus) to allow more formal package management.
 
 ## Why?
 **libget** is intended for use in smaller systems, such as homebrew'd video game consoles, where there is code execution but not a full stack of tools that package managers usually utilize, such as shell scripts or external libraries.
@@ -63,7 +63,7 @@ This project uses [Buck](https://github.com/facebook/buck) to build and [Buckaro
 1. Install a [precompiled Buck](https://github.com/facebook/buck/releases), and [precompiled Buckaroo](https://github.com/LoopPerfect/buckaroo/releases) for your platform, or build them from source
 2. Run the following:
 ```
-git clone https://github.com/vgmoose/libget.git
+git clone https://github.com/NintendoBrew/libget.git
 buckaroo install
 buck build :get
 ```
