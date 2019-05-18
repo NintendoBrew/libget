@@ -1,3 +1,5 @@
+# Moddified build for nintendobrews wiiustore
+
 # libget
 [![Build Status](https://travis-ci.org/vgmoose/libget.svg?branch=master)](https://travis-ci.org/vgmoose/libget) [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://opensource.org/licenses/GPL-3.0)
 
