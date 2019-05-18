@@ -2,7 +2,7 @@
     "repos": [
         {
             "name": "Wiiubru Default",
-            "url": "https://wiiubru.com/appstore",
+            "url": "http://nintendobrew.com/WiiUStoreplus/",
             "enabled": false
         },
         {
